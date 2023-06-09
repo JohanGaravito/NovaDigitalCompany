@@ -46,7 +46,7 @@ div {
 p{
   text-decoration: none;
 }}
-
+img1
 .h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 48px !important;
@@ -272,7 +272,7 @@ justify-content: center;
 {
   position: absolute;
   top: -3em;
-  left: 53em;
+  left:37em;
   transform: translateX(-50%);
   }
   
@@ -282,14 +282,14 @@ justify-content: center;
   height: 65px;
 width: 10px;
   top: -3em;
-  left: 28em;
+  left: 13em;
   transform: translateX(-50%);
   }
 
   #btn-3p {
     position: absolute;
     top: -3em;
-    left: 79em;
+    left: 64em;
     transform: translateX(-50%);
     }
 
@@ -299,52 +299,52 @@ width: 10px;
 {
   position: absolute;
   top: -8em;
-  left: 53em;
+  left: 37em;
   transform: translateX(-50%);
   }
 #btn-3 {
 position: absolute;
 top: -8em;
-left: 79em;
+left: 64em;
 transform: translateX(-50%);
 }
 #btn-9 {
   position: absolute;
   top: -8em;
-  left: 28em;
+  left: 13em;
   }
 #btn-10 {
   position: absolute;
-  top: 1370px;
-  left: 480px;
+  top:  1280px;
+  left: 270px;
 }
 #btn-10p {
   position: absolute;
-  top: 1470px;
-  left: 480px;
+  top: 1400px;
+  left: 270px;
 }
 
 #btn-5 {
 position: absolute;
-top: 1370px;
-left: 930px;
+top: 1280px;
+left: 670px;
 }
 
 #btn-5p {
   position: absolute;
-  top: 1470px;
-  left: 930px;
+  top: 1400px;
+  left: 670px;
   }
 
 #btn-6 {
 position: absolute;
-top: 1370px;
-left: 1370px;
+top: 1280px;
+left: 1030px;
 }
 #btn-6p {
   position: absolute;
-  top: 1470px;
-  left: 1370px;
+  top: 1400px;
+  left: 1030px;
   }
 
 #btn-7 {
@@ -378,19 +378,19 @@ border-radius: 10px;
 #img2{
   position: absolute;
   width: 18em;
-  left: 45em;
+  left: 29em;
   top:55em;
 }
 #img3{
   position: absolute;
   width: 18em;
-  left: 70em;
+  left: 54em;
   top:55em;
 }
 #img1{
   position: absolute;
   width: 20em;
-  left:20em;
+  left:4em;
   top:55em;
 }
 }
